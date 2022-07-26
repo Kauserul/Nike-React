@@ -1,0 +1,24 @@
+.header{
+    background-color: #FFF9F4;
+}
+
+.frist-span {
+    font-size: 65px;
+    color: #F57C51;
+}
+
+.secend-span {
+    font-size: 65px;
+    color: #363957;
+}
+
+.right-side p{
+    font-size: 18px;
+    color: #444;
+}
+
+.single-section{
+    font-size: 18px;
+    color: #ccc;
+    font-weight: 500;
+}
